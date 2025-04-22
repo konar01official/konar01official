@@ -2,7 +2,7 @@
 
 🎯 **Business Analyst** | ⚡ **SQL Devoloper** | 🎯 **Data Analyst** |🧠 **Data-Driven Thinker** | 🚀 **WEB Developer**
 
-💡 **Turning data into decisions** 
+💡 **Turning data into decisions**  | 
 I love blending numbers, logic, and storytelling to solve real-world problems.
 
 📍 Based in India | 🧠 Passionate about solving real-world problems using data & code  
