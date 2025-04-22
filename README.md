@@ -1,11 +1,3 @@
-<!-- Banner -->
-<img src="https://github.com/konar01official/konar01official/blob/main/banner.png" alt="KRISHNAGOPAL KONAR Banner" style="width:100%;"/>
-
-<!-- Profile Visitor Badge -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=konar01official&label=Profile%20views&color=0e75b6&style=flat" alt="konar01official" />
-</p>
-
 ## 👋 HI, I'M KRISHNAGOPAL KONAR 📢
 
 🎯 **Business Analyst** | ⚡ **SQL Devoloper** | 🎯 **Data Analyst** |🧠 **Data-Driven Thinker** | 🚀 **WEB Developer**
@@ -17,8 +9,17 @@ I love blending numbers, logic, and storytelling to solve real-world problems.
 📬 Reach me at: **mr.konar.official@gmail.com**
 
 ---
+<!-- Banner -->
+<img src="https://github.com/konar01official/konar01official/blob/main/banner.png" alt="KRISHNAGOPAL KONAR Banner" style="width:100%;"/>
 
-###.🌐 Connect with Me 
+<!-- Profile Visitor Badge -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=konar01official&label=Profile%20views&color=0e75b6&style=flat" alt="konar01official" />
+</p>
+
+---
+
+## 🌐 Connect with Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnagopal-konar-b59684350/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/konar01official)
