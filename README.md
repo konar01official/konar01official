@@ -8,10 +8,9 @@
 
 ## 👋 HI, I'M KRISHNAGOPAL KONAR 📢
 
-💡 **Turning data into decisions** 
-
 🎯 **Business Analyst** | ⚡ **SQL Devoloper** | 🎯 **Data Analyst** |🧠 **Data-Driven Thinker** | 🚀 **WEB Developer**
 
+💡 **Turning data into decisions** 
 I love blending numbers, logic, and storytelling to solve real-world problems.
 
 📍 Based in India | 🧠 Passionate about solving real-world problems using data & code  
@@ -77,8 +76,8 @@ If you're excited about **Data**, **Business Analysis**, **Web Development**, or
 
 ## 🌟 Currently Learning
 
-- Exploring **Machine Learning** frameworks like TensorFlow and PyTorch.
-- Diving deeper into **Cloud Platforms** (AWS, GCP).
+- Exploring **Cloud Platforms** like AWS.
+- Diving deeper into **Business** (SPSS, SWOT Analysis).
 - Building a **Portfolio Website** (Coming soon 👀).
 
 ---
