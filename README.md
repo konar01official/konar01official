@@ -1,4 +1,3 @@
-You said:
 <!-- Banner -->
 <img src="https://github.com/konar01official/konar01official/blob/main/banner.png" alt="KRISHNAGOPAL KONAR Banner" style="width:100%;"/>
 
@@ -7,7 +6,7 @@ You said:
   <img src="https://komarev.com/ghpvc/?username=konar01official&label=Profile%20views&color=0e75b6&style=flat" alt="konar01official" />
 </p>
 
-## 👋 Hi, I'KRISHNAGOPAL KONAR 📢
+## 👋 HI, I'M KRISHNAGOPAL KONAR 📢
 
 💡 **Turning data into decisions** 
 
